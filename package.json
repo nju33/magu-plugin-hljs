@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-hljs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Magu plugin that highlight code block use the Highlight.js",
   "repository": "nju33/magu-plugin-hljs",
   "main": "./magu-plugin-hljs.js",
