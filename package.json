@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-hljs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Magu plugin that generate table of contents",
   "repository": "nju33/magu-plugin-hljs",
   "main": "./magu-plugin-hljs.js",
