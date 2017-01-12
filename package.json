@@ -1,7 +1,7 @@
 {
   "name": "magu-plugin-hljs",
   "version": "0.0.1",
-  "description": "Magu plugin that generate table of contents",
+  "description": "Magu plugin that highlight code block use the Highlight.js",
   "repository": "nju33/magu-plugin-hljs",
   "main": "./magu-plugin-hljs.js",
   "scripts": {
