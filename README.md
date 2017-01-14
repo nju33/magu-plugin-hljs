@@ -1,6 +1,6 @@
-# magu-plugin-toc
+# magu-plugin-hljs
 
-Magu plugin that highlight code block use the Highlight.js
+[Magu](https://github.com/nju33/magu) plugin that highlight code block use the Highlight.js
 
 [![Build Status](https://travis-ci.org/nju33/magu-plugin-hljs.svg?branch=master)](https://travis-ci.org/nju33/magu-plugin-hljs) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
